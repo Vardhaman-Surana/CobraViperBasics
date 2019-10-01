@@ -1,0 +1,4 @@
+interval: 3
+endpoint: /delay
+timeout: 30
+command: pwd
